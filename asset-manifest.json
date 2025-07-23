@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gpa-app/static/css/main.e6c13ad2.css",
+    "main.js": "/gpa-app/static/js/main.64fb34d3.js",
+    "static/js/453.1208aab4.chunk.js": "/gpa-app/static/js/453.1208aab4.chunk.js",
+    "index.html": "/gpa-app/index.html",
+    "main.e6c13ad2.css.map": "/gpa-app/static/css/main.e6c13ad2.css.map",
+    "main.64fb34d3.js.map": "/gpa-app/static/js/main.64fb34d3.js.map",
+    "453.1208aab4.chunk.js.map": "/gpa-app/static/js/453.1208aab4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.64fb34d3.js"
+  ]
+}
